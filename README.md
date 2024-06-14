@@ -1,6 +1,6 @@
-<div align="center">
-<h1 align="center">Hello! I am Manuel 👋</h1>
-</div>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Calibri&size=40&pause=1000&color=000000&background=1A1B2700&center=true&vCenter=true&random=false&width=450&height=70&lines=Hi+there,+I+am+Manuel!+👋" alt="Typing SVG" /></a>
+</h1>
 
 ## About me
 
