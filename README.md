@@ -1,15 +1,22 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=40&duration=3000&pause=2000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Manuel!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=35&duration=3000&pause=2000&color=000000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hello%2C+I+am+Manuel!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-## About me
+<h1 align="center">
+  👀 About me 👀
+  <br>
+</h1>
 
-- 📚👨‍💻 College Student in Software Engineering
-- 🚁 Jr. Developer
-- 🤓 Currently learning Kotlin
-<br>
+<h3 align="center">
+  📚👨‍💻 College Student in Software Engineering<br><br>
+  🚁 Jr. Developer<br><br>
+  🤓 Currently learning Kotlin<br><br>
+  <hr>
+</h3>
 
-### ⚙️ &nbsp;GitHub Analytics
+<h1 align="center">
+  ⚙️ GitHub Analytics ⚙️
+</h1>
 
 <!--
 <p align="center">
@@ -26,3 +33,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManyFlez162&layout=donut"/>
 </a>
 </p>
+<hr>
+
