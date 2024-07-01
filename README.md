@@ -1,7 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lora&size=35&duration=3000&pause=2000&color=000000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hello%2C+I+am+Manuel!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
-<hr>
 
 <h1 align="center">
   👀 About me 👀
