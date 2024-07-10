@@ -10,7 +10,6 @@
 <h3 align="center">
   📚👨‍💻 College Student in Software Engineering<br><br>
   🚁 Jr. Developer<br><br>
-  🤓 Currently learning Kotlin<br><br>
   <hr>
 </h3>
 
