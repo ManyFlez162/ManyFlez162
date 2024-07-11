@@ -14,6 +14,17 @@
 </h3>
 
 <h1 align="center">
+  👨🏻‍💻 Technologies I know 👨🏻‍💻
+</h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,html,css,js,androidstudio,cpp,bootstrap,arduino,figma,firebase,git,github,idea,kotlin,mongodb,mysql,notion,ps,postman,r,sklearn,tensorflow,vscode&perline=12" />
+  </a>
+</p>
+<hr>
+
+<h1 align="center">
   ⚙️ GitHub Analytics ⚙️
 </h1>
 
