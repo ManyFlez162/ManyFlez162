@@ -10,7 +10,7 @@
 <h3 align="center">
   📚👨‍💻 College Student in Software Engineering<br><br>
   🚁 Jr. Developer<br><br>
-  🤓 Currently improving my Java, JS and Front skills<br><br>
+  🤓 Currently improving my web dev skills with React<br><br>
   <hr>
 </h3>
 
